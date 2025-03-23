@@ -1,7 +1,6 @@
 #if DISCORD_RPC
 using DiscordRPC;
 using DiscordRPC.Logging;
-using Newtonsoft.Json;
 #endif
 using System.ComponentModel;
 using System.Drawing.Drawing2D;
